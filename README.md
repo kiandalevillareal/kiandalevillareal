@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an admin template<br>👯 I’m looking to collaborate on an ecommerce project<br>🌱 I’m currently learning vueJS<br>💬 Ask me anything about volleyball <br>⚡ Fun fact: i know & can do sign language
+🔭 I’m currently working on an admin template using vue3<br>👯 I’m looking to collaborate on an ecommerce project<br>🌱 I’m currently learning vueJS<br>💬 Ask me anything about volleyball <br>⚡ Fun fact: i know & can do sign language
 
 
 ## 🌐 Socials:
